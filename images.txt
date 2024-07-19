@@ -5,4 +5,5 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-grafana/grafana:10.2.8
+--platform=jiangxuliu/dockerhub
+busybox:1.36.1
