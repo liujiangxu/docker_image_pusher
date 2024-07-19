@@ -142,7 +142,7 @@ jobs:
             image_name=${image_name_tag%:*}  # 提取image_name
             tag=${image_name_tag#*:}         # 提取tag，如果没有tag默认为latest
             
-            new_image="$ALIYUN_REGISTRY/$ALIYUN_NAME_SPACE/dockerhub/$platform_prefix$name_space_prefix$image_name-$tag"
+            new_image="$ALIYUN_REGISTRY/$ALIYUN_NAME_SPACE/dockerhub:$image_name-$tag"
             echo "docker tag $image $new_image"
             docker tag $image $new_image
             echo "docker push $new_image"
