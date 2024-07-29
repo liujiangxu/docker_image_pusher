@@ -5,5 +5,7 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-hub.zentao.net/app/zentao
-mariadb:10.6
+apache/rocketmq:5.2.0
+elasticsearch:8.4.1
+redis:6.2
+zookeeper:3.6.4
