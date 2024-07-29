@@ -5,6 +5,5 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-docker.getcollate.io/openmetadata/db:1.4.5
-docker.getcollate.io/openmetadata/server:1.4.5
-docker.getcollate.io/openmetadata/ingestion:1.4.5
+hub.zentao.net/app/zentao
+mariadb:10.6
