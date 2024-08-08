@@ -11,4 +11,5 @@
 #zookeeper:3.6.4
 #mysql:8.0.39
 #lobehub/lobe-chat
-snipe/snipe-it
+#snipe/snipe-it
+mysql:5.6
