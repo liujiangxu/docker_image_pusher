@@ -14,4 +14,5 @@
 #snipe/snipe-it
 #mysql:5.6
 #mariadb:10.6.4-focal
-zmister/mrdoc:v8
+#zmister/mrdoc:v8
+jonnyan404/mrdoc-nginx:0.9.2
