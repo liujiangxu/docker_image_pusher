@@ -17,5 +17,6 @@
 #zmister/mrdoc:v8
 #jonnyan404/mrdoc-nginx:0.9.2
 #hlohaus789/g4f
-assaflavie/runlike
-pegleg/whaler
+#assaflavie/runlike
+#pegleg/whaler
+odise/busybox-curl:latest
