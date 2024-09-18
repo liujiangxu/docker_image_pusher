@@ -19,4 +19,4 @@
 #hlohaus789/g4f
 #assaflavie/runlike
 #pegleg/whaler
-odise/busybox-curl
+yauritux/busybox-curl:latest
