@@ -20,4 +20,5 @@
 #assaflavie/runlike
 #pegleg/whaler
 #yauritux/busybox-curl:latest
-grafana/grafana:11.3.0
+#grafana/grafana:11.3.0
+busybox:glibc
