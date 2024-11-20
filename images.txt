@@ -20,9 +20,4 @@
 #assaflavie/runlike
 #pegleg/whaler
 #yauritux/busybox-curl:latest
-pinpointdocker/pinpoint-web:3.0.1
-pinpointdocker/pinpoint-collector:3.0.1
-pinpointdocker/pinpoint-agent:3.0.1
-pinpointdocker/pinpoint-flink:3.0.1
-pinpointdocker/pinpoint-batch:3.0.1
-pinpointdocker/pinpoint-hbase:3.0.1
+grafana/grafana:11.3.0
