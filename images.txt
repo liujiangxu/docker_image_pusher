@@ -22,4 +22,4 @@
 #yauritux/busybox-curl:latest
 #grafana/grafana:11.3.0
 #1panel/maxkb:latest
-certascale/browser
+certascale/browser:chrome_100.0-quiet
