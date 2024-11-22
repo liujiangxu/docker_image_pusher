@@ -21,4 +21,5 @@
 #pegleg/whaler
 #yauritux/busybox-curl:latest
 #grafana/grafana:11.3.0
-1panel/maxkb:latest
+#1panel/maxkb:latest
+nimaajdari/ie
