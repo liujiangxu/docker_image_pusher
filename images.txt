@@ -23,4 +23,5 @@
 #grafana/grafana:11.3.0
 #1panel/maxkb:latest
 #certascale/browser:chrome_100.0-quiet
-monotykamary/wscat:latest
+#monotykamary/wscat:latest
+chishin/nginx-proxy-manager-zh:latest
