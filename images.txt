@@ -24,4 +24,5 @@
 #1panel/maxkb:latest
 #certascale/browser:chrome_100.0-quiet
 #monotykamary/wscat:latest
-chishin/nginx-proxy-manager-zh:latest
+#chishin/nginx-proxy-manager-zh:latest
+jc21/nginx-proxy-manager:v3
