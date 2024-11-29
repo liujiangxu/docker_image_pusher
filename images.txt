@@ -27,4 +27,5 @@
 #chishin/nginx-proxy-manager-zh:latest
 #jc21/nginx-proxy-manager:v3
 #axizdkr/tengine:2.3.4
-cm2network/csgo:latest
+#cm2network/csgo:latest
+crazymax/csgo-server-launcher
