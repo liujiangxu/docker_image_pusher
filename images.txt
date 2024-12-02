@@ -28,4 +28,5 @@
 #jc21/nginx-proxy-manager:v3
 #axizdkr/tengine:2.3.4
 #cm2network/csgo:latest
-crazymax/csgo-server-launcher
+#crazymax/csgo-server-launcher
+mouday/domain-admin:latest
