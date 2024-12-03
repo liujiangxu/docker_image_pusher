@@ -29,4 +29,5 @@
 #axizdkr/tengine:2.3.4
 #cm2network/csgo:latest
 #crazymax/csgo-server-launcher
-mouday/domain-admin:latest
+#mouday/domain-admin:latest
+ollama/ollama
