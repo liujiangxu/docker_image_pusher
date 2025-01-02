@@ -30,4 +30,6 @@
 #cm2network/csgo:latest
 #crazymax/csgo-server-launcher
 #mouday/domain-admin:latest
-ollama/ollama
+#ollama/ollama
+library/mariadb:latest
+mayanghua/instock:latest
