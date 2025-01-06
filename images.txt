@@ -33,4 +33,5 @@
 #ollama/ollama
 #library/mariadb:latest
 #mayanghua/instock:latest
-vulhub/flask:1.1.1
+#vulhub/flask:1.1.1
+photoprism/photoprism
