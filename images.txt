@@ -31,5 +31,6 @@
 #crazymax/csgo-server-launcher
 #mouday/domain-admin:latest
 #ollama/ollama
-library/mariadb:latest
-mayanghua/instock:latest
+#library/mariadb:latest
+#mayanghua/instock:latest
+vulhub/flask:1.1.1
