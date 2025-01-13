@@ -36,4 +36,5 @@
 #vulhub/flask:1.1.1
 #photoprism/photoprism
 #elestio/lobe-chat:v1.43.4
-ddavison/soapui
+#ddavison/soapui
+hslr/sun-panel:v1.3.0
