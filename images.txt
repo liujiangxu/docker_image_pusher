@@ -37,4 +37,6 @@
 #photoprism/photoprism
 #elestio/lobe-chat:v1.43.4
 #ddavison/soapui
-hslr/sun-panel:latest
+#hslr/sun-panel:latest
+redis:7.4.2
+lanyulei/ferry:1.0.7
