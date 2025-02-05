@@ -40,4 +40,5 @@
 #hslr/sun-panel:latest
 #redis:7.4.2
 #lanyulei/ferry:1.0.7
-ollama/ollama
+#ollama/ollama
+lobehub/lobe-chat:v1.51.1
