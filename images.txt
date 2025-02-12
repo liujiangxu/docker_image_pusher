@@ -43,4 +43,7 @@
 #ollama/ollama
 #lobehub/lobe-chat:v1.51.1
 #dyrnq/open-webui:latest
-dyrnq/open-webui:main
+#dyrnq/open-webui:main
+docker.io/library/caddy:2-alpine
+docker.io/valkey/valkey:8-alpine
+docker.io/searxng/searxng:latest
