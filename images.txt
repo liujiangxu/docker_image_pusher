@@ -47,3 +47,4 @@
 docker.io/library/caddy:2-alpine
 docker.io/valkey/valkey:8-alpine
 docker.io/searxng/searxng:latest
+
