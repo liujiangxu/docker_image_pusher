@@ -5,7 +5,7 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 ###############################################################################################################################
-                                      registry.cn-hangzhou.aliyuncs.com/jiangxuliu/dockerhub                                  #
+#                                     registry.cn-hangzhou.aliyuncs.com/jiangxuliu/dockerhub                                  #
 ###############################################################################################################################
 #apache/rocketmq:5.2.0
 #elasticsearch:8.4.1
