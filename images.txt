@@ -56,4 +56,5 @@
 #ubuntu/squid:latest
 #semitechnologies/weaviate:1.19.0
 #dyrnq/open-webui:latest
-jonnyan404/mrdoc-nginx:0.9.2-with-mysql
+#jonnyan404/mrdoc-nginx:0.9.2-with-mysql
+217heidai/mm-wiki:latest
