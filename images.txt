@@ -60,4 +60,4 @@
 #217heidai/mm-wiki:latest
 #xwiki:17.1.0-mysql-tomcat
 #mysql:8.3
-zabbix/zabbix-agent2
+zabbix/zabbix-agent2:alpine-5.0.44
