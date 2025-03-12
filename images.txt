@@ -58,5 +58,6 @@
 #dyrnq/open-webui:latest
 #jonnyan404/mrdoc-nginx:0.9.2-with-mysql
 #217heidai/mm-wiki:latest
-xwiki:17.1.0-mysql-tomcat
-mysql:8.3
+#xwiki:17.1.0-mysql-tomcat
+#mysql:8.3
+zabbix/zabbix-agent2
