@@ -66,4 +66,7 @@
 #zabbix/zabbix-java-gateway:7.2-centos-latest
 #zabbix/zabbix-server-mysql:7.2-centos-latest
 #mysql:8.4-oracle
-mysql:8.4
+#mysql:8.4
+zabbix/zabbix-web-nginx-mysql:7.2.5-centos
+zabbix/zabbix-java-gateway:7.2.5-centos
+zabbix/zabbix-server-mysql:7.2.5-centos
