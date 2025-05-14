@@ -70,4 +70,5 @@
 #zabbix/zabbix-web-nginx-mysql:7.2.5-centos
 #zabbix/zabbix-java-gateway:7.2.5-centos
 #zabbix/zabbix-server-mysql:7.2.5-centos
-zabbix/zabbix-proxy-mysql:7.2.5-centos
+#zabbix/zabbix-proxy-mysql:7.2.5-centos
+alpine:latest
