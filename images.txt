@@ -89,5 +89,5 @@
 #pinpointdocker/pinpoint-batch:3.0.3
 #pinpointdocker/pinpoint-collector:3.0.3
 #pinpointdocker/pinpoint-flink:3.0.3
-#pinpointdocker/pinpoint-hbase:3.0.3
+#pinpointdocker/pinpoint-hbase:3.0.3 
 n8n
