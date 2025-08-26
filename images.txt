@@ -91,4 +91,5 @@
 #pinpointdocker/pinpoint-flink:3.0.3
 #pinpointdocker/pinpoint-hbase:3.0.3 
 #n8nio/n8n
-prom/node-exporter:v1.8.1
+#prom/node-exporter:v1.8.1
+nginx/nginx-prometheus-exporter:1.0.0
