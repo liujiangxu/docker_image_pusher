@@ -95,4 +95,4 @@
 #nginx/nginx-prometheus-exporter:1.0.0
 #prom/alertmanager:v0.28.0
 #prom/prometheus:v3.0.0
-pushgateway
+pushgateway:latest
