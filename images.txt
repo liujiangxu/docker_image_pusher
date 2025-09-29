@@ -96,4 +96,5 @@
 #prom/alertmanager:v0.28.0
 #prom/prometheus:v3.0.0
 #prom/pushgateway:v1.11.0
-grafana/grafana:11.0.1
+#grafana/grafana:11.0.1
+rockylinux:9-minimal
