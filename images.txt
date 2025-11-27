@@ -97,4 +97,12 @@
 #prom/prometheus:v3.0.0
 #prom/pushgateway:v1.11.0
 #grafana/grafana:11.0.1
-rockylinux:9-minimal
+#rockylinux:9-minimal
+mysql:8.4.5
+bitnamilegacy/redis:8.0
+bitnamilegacy/elasticsearch:8.18.0
+bitnamilegacy/etcd:3.5
+milvusdb/milvus:v2.5.10
+nsqio/nsq:v1.2.1
+cozedev/coze-studio-server:latest
+cozedev/coze-studio-web:latest
