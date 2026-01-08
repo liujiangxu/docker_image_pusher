@@ -109,6 +109,7 @@
 #minio/minio:RELEASE.2025-06-13T11-33-47Z-cpuv1
 #wordpress
 #mysql:8.0
-zabbix/zabbix-web-nginx-mysql:7.4-centos-latest
-zabbix/zabbix-java-gateway:7.4-centos-latest
-zabbix/zabbix-server-mysql:7.4-centos-latest
+#zabbix/zabbix-web-nginx-mysql:7.4-centos-latest
+#zabbix/zabbix-java-gateway:7.4-centos-latest
+#zabbix/zabbix-server-mysql:7.4-centos-latest
+zabbix/zabbix-agent:7.4-alpine-latest
