@@ -112,4 +112,5 @@
 #zabbix/zabbix-web-nginx-mysql:7.4-centos-latest
 #zabbix/zabbix-java-gateway:7.4-centos-latest
 #zabbix/zabbix-server-mysql:7.4-centos-latest
-zabbix/zabbix-agent:7.4-alpine-latest
+#zabbix/zabbix-agent:7.4-alpine-latest
+ghcr.io/open-webui/open-webui
