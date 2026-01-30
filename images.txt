@@ -114,4 +114,5 @@
 #zabbix/zabbix-server-mysql:7.4-centos-latest
 #zabbix/zabbix-agent:7.4-alpine-latest
 #ghcr.io/open-webui/open-webui
-n8nio/n8n:2.3.6
+#n8nio/n8n:2.3.6
+redhat/ubi9
