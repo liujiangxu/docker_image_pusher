@@ -117,4 +117,5 @@
 #n8nio/n8n:2.3.6
 #redhat/ubi9
 #grafana/grafana:12.3
-n8nio/n8n:2.25.2
+#n8nio/n8n:2.25.2
+xwiki:18.6-mysql-tomcat
