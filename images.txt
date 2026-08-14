@@ -124,4 +124,9 @@
 #redis:6-alpine
 #semitechnologies/weaviate:1.27.0
 #ubuntu/squid:latest
-zfanswer/dify-on-dingtalk:latest
+#zfanswer/dify-on-dingtalk:latest
+elasticsearch:8.11.3
+infiniflow/ragflow:v0.26.4
+mysql:8.0.40
+pgsty/silo:RELEASE.2026-08-06T00-00-00Z
+valkey/valkey:8
