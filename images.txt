@@ -130,4 +130,5 @@
 #mysql:8.0.40
 #pgsty/silo:RELEASE.2026-08-06T00-00-00Z
 #valkey/valkey:8
-jenkins/jenkins:2.583-slim
+#jenkins/jenkins:2.583-slim
+redis:8.10.2-trixie
